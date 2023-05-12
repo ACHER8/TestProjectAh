@@ -68,7 +68,7 @@ namespace TestProjectA
                                                 "16:20 - 16:50",
                                                 "17:30 - 18:00"};
 
-            Assert.AreEqual(result, strings);//
+            Assert.AreEqual(result, strings);
         }
 
         [Test]
